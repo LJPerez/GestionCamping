@@ -1,0 +1,3 @@
+GUI implementado solo las ventanas
+
+cualquier bug que encuentren o modificacion que hagan avisenme 
